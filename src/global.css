@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply bg-brand text-white antialiased;
+}
+
+.links {
+	@apply flex flex-col gap-2;
+}
+
+.link {
+	@apply flex px-6 py-5 rounded-xl bg-white text-support font-medium tracking-tight text-xl text-center justify-center items-center gap-2 hover:bg-gray-200 transition;
+}
+
+.link-primary {
+	@apply bg-accent  hover:bg-amber-400 font-bold;
+}
