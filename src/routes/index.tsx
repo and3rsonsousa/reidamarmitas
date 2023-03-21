@@ -8,7 +8,7 @@ export default component$(() => {
 				<img src="/logo.png" class="mx-auto h-40" alt="" />
 			</div>
 			<div class="links">
-				<a href="https://wa.me/5588992637940" class="link link-primary">
+				<a href="https://wa.me/5585996065623" class="link link-primary">
 					Peça pelo WhatsApp
 				</a>
 
