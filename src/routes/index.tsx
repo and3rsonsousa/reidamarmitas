@@ -12,7 +12,10 @@ export default component$(() => {
 					Peça pelo WhatsApp
 				</a>
 
-				<a href="https://instagram.com/reidasmarmita" class="link">
+				<a
+					href="https://instagram.com/stories/reidasmarmita"
+					class="link"
+				>
 					Veja o Cardápio de hoje{" "}
 					<span class="uppercase text-xs tracking-wide">
 						( nos stories )
